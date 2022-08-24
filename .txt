@@ -1,0 +1,5 @@
+sempre coitar ao criar a branch depois voltar pra main
+fazer commit - add os arquivos para comite git add . nome do arquivo alterado 
+             - git commit -m "mensagem" faz o commit
+criar uma branch nova na minha maquina git checkout -b feature/all
+voltar para main git checkout main
