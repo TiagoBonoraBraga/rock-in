@@ -1,5 +1,12 @@
-sempre coitar ao criar a branch depois voltar pra main
+sempre commitar ao criar a branch depois voltar pra main
 fazer commit - add os arquivos para comite git add . nome do arquivo alterado 
              - git commit -m "mensagem" faz o commit
+             - git push origin nome da branch
 criar uma branch nova na minha maquina git checkout -b feature/all
 voltar para main git checkout main
+merge- git merge
+atualiza o projeto da raiz sincroniza o servidor do codigo com sua maquina git fecth --all
+para subir na main ir pelo github blz
+
+1° git fetch --all para puxar td trabalho
+2° 
