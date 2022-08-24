@@ -13,10 +13,10 @@ function NavBar() {
   }
   return (
     <nav class="bg hover-circulo">
-    <a href="#" title="Página Inícial">Home</a>
-    <a href="/Cadastro" title="cadastrar">Cadastrar</a>
-    
-</nav>
+      <a href="/" title="Página Inícial">Home</a>
+      <a href="/cadastro" title="cadastrar">Cadastrar</a>
+      <a href="/contato" title="Contato">Contato</a>
+    </nav>
   );
 }
 
